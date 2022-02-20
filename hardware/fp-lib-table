@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name vectrex-vectorblade)(type KiCad)(uri /Users/brett/code/debugging/technobly/vectrex-vectorblade/hardware/libs/vectrex-vectorblade.pretty)(options "")(descr ""))
+)

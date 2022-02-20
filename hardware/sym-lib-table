@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name vectrex-edge-connector)(type Legacy)(uri /Users/brett/code/debugging/technobly/vectrex-vectorblade/hardware/libs/vectrex-edge-connector.lib)(options "")(descr ""))
+  (lib (name vectorblade-logo)(type Legacy)(uri /Users/brett/code/debugging/technobly/vectrex-vectorblade/hardware/libs/vectorblade-logo.lib)(options "")(descr ""))
+)

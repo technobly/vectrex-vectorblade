@@ -1,0 +1,16 @@
+"Date:","Sunday, October 04, 2020 at 12:01:03 PM"
+"Tool:","Eeschema (5.1.6-87-g1447494bc)"
+"Generator:","/private/var/folders/z4/810dpjjx40sdk49yrs8fc2m80000gn/T/AppTranslocation/1DF89409-4AD7-4826-80D4-C05ED8546A72/d/kicad.app/Contents/SharedSupport/plugins/bom_csv_grouped_by_value_with_fp.py"
+"Component Count:","10"
+"Ref","Qnty","Value","Cmp name","Footprint","Description","Vendor"
+"C1, ","1","0.1uF 0805","C","Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder","Unpolarized capacitor",""
+"D1, ","1","ASMB-MTB0-0A3A2","ASMB-MTB0-0A3A2","vectrex-vectorblade:LED_Avago_PLCC4_3.2x2.8mm_CW","Tricolor Black Surface LED, Common Anode Pin 1, PLCC-4",""
+"R2, R3, ","2","150 0805","R","Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder","Resistor",""
+"R4, ","1","200 0805","R","Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder","Resistor",""
+"SW1, ","1","SW_DIP_x03","SW_DIP_x03","Button_Switch_SMD:SW_DIP_SPSTx03_Slide_6.7x9.18mm_W8.61mm_P2.54mm_LowProfile","3x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol",""
+"U1, ","1","SST39SF020","SST39SF020","Package_DIP:DIP-32_W15.24mm_Socket","Silicon Storage Technology (SSF) 256k x 8 Flash ROM",""
+"U1, ","1","115-87-632-41-003101","115-87-632-41-003101","Package_DIP:DIP-32_W15.24mm_Socket","CONN IC DIP SOCKET 32POS GOLD",""
+"U2, ","1","NC7ST08M5X (do not substitute)","NC7ST08M5X (do not substitute)","Package_TO_SOT_SMD:SOT-23-5_HandSoldering","Single AND Gate, Low-Voltage CMOS",""
+"U3, ","1","SN74AHC1G04DBVR (Schmitt-Trigger)","74AHC1G04","Package_TO_SOT_SMD:SOT-23-5_HandSoldering","Single NOT Gate, Low-Voltage CMOS",""
+
+
